@@ -1,0 +1,14 @@
+MCAL/MTIMER/MTIMER_program.o MCAL/MTIMER/MTIMER_program.o:  \
+ ../MCAL/MTIMER/MTIMER_program.c ../MCAL/MTIMER/../../LIB/LIB_STD_TYPES.h \
+  ../MCAL/MTIMER/../../LIB/LIB_BIT_MATH.h ../MCAL/MTIMER/MTIMER_config.h \
+  ../MCAL/MTIMER/MTIMER_private.h ../MCAL/MTIMER/MTIMER_interface.h
+
+../MCAL/MTIMER/../../LIB/LIB_STD_TYPES.h:
+
+../MCAL/MTIMER/../../LIB/LIB_BIT_MATH.h:
+
+../MCAL/MTIMER/MTIMER_config.h:
+
+../MCAL/MTIMER/MTIMER_private.h:
+
+../MCAL/MTIMER/MTIMER_interface.h:
